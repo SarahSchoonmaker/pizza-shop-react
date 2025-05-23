@@ -48,12 +48,12 @@ const Footer = () => {
             <ul className="space-y-2">
               <li className="inline-flex space-x-4">
                 <span><LocationIcon className={"w-6"} /></span>
-                <span>20 Graham Rd, Malvern WR14 2HL, United Kingdom</span>
+                <span>1 Rosemary Square West Palm Beach, FL 33401</span>
               </li>
-              <li className="inline-flex space-x-4">
+              {/* <li className="inline-flex space-x-4">
                 <span><PhoneIcon className={"w-6"} /></span>
-                <span>+44 168 4892 229</span>
-              </li>
+                <span></span>
+              </li> */}
               <li className="inline-flex space-x-4">
                 <span><MailIcon className={"w-6"} /></span>
                 <span>info@pizzafiesta.com</span>
